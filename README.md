@@ -1,3 +1,6 @@
+# Permissions
+adopted from the UCLA WI+RE website
+
 # research-tips-testing
 
 building and testing a new version of https://uclalibrary.github.io/research-tips/
