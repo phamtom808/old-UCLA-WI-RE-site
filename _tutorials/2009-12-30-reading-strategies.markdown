@@ -6,10 +6,10 @@ authors:
     - Jen
     - Shannon
     - Juan
-    - Jeannie Chen
+    - Jeannie
     - April
     - Emily
-    - Sophia Wu
+    - Sophia
 contributors: 
     - Doug
     - UCLA Powell Library

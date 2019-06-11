@@ -9,7 +9,7 @@ contributors:
     - Whitney Arnold 
     - Allison R. Benedetti
     - Jeannie Chen
-    - Juan 
+    - Juan Diaz 
     - Thomas Garbelotti
     - Janet Goins
     - Beth Goodhue

@@ -10,7 +10,7 @@ contributors:
     - Joanna Chen Cham
     - Janet Goins
     - Leigh Harris
-    - Nisha Mody
+    - Nisha Moody
     - Renee
     - Annelie Rugg
     - Mary Tran

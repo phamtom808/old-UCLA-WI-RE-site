@@ -10,9 +10,9 @@ authors:
     - Kian
     - Shannon
     - Taylor
-    - Jeannie Chen
+    - Jeannie
     - April
-    - Sophia Wu
+    - Sophia
 author: The WI+RE team 
 ---
 Hi there! Welcome to the WI+RE sandbox! This is WI+RE's place to play around and experiment with web publishing. We can explore all kinds of things here - protoypes, playlists, coding, editing, html, css, web animations - you name it!

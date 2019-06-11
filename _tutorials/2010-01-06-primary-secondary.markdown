@@ -5,13 +5,11 @@ authors:
     - Kian
     - Jen
 contributors: 
-    - Allison R. Benedetti
+    - Allison Benedetti
     - Miki Goral
     - Robert Gore
     - Janine Henri
-    - Callie Holmes
-    - Doug
-    - Diana L. King
+    - Diana King
     - Simon Lee
     - Henri Lim
     - Marisa Méndez-Brady
@@ -21,13 +19,11 @@ contributors:
     - Matthew Vest
 awards:
     - primo
-    - primo-site-of-the-month-march-2019
 description: How to tell the difference between primary and secondary sources.
 handout: /assets/handouts/PSS_handout_primary-secondary.pdf
 handout-thumbail: /assets/handouts/thumbnails/PSS_handout_thumbnail
 thumbnail: /assets/tutorials/thumbnails/WheelOfSourcesThumbnail.png
 category: Finding and Citing Sources
-featured: yes
 tags:
 - primary
 - secondary

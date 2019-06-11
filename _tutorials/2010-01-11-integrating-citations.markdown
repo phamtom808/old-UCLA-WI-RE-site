@@ -8,7 +8,7 @@ contributors:
     - Taylor
     - Leigh Harris
     - Simon Lee
-    - Marisa Méndez-Brady
+    - Marisa Mendez-Brady
     - Caitlin
     - Renee
     - Doug

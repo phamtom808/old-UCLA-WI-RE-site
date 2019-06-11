@@ -5,11 +5,11 @@ authors:
     - Caitlin
     - Shannon
     - Taylor
-    - Mary Tran
-    - Shushanik Stepanyan
+    - Mary
+    - Shushanik
 contributors: 
     - Whitney Arnold
-    - Allison R. Benedetti 
+    - Allison Benedetti 
     - Zoe Borovsky
     - Joanna Chen Cham
     - Elizabeth Cheney

@@ -6,7 +6,7 @@ authors:
     - Taylor
     - Shannon
 contributors: 
-    - Caitlin
+    - Caitlin Meyer
     - Renee
     - UCLA Powell Library
 notes: ""

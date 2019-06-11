@@ -9,9 +9,9 @@ contributors:
     - Whitney Arnold
     - Leigh Harris
     - Simon Lee
-    - Marisa Méndez-Brady
+    - Marisa Mendez-Brady
     - Renee
-    - Doug
+    - Doug Worsham
 notes: ""
 description: "There are many ways to use citations to support an argument."
 handout-url: /assets/handouts/citation-integration-final.pdf

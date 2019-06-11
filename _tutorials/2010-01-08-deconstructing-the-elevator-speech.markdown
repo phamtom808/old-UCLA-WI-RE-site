@@ -2,7 +2,7 @@
 title:  "Deconstructing the Elevator Speech"
 date:   2010-01-08
 authors: 
-    - Mary Tran
+    - Mary
 contributors: 
     - Taylor
     - Caitlin
