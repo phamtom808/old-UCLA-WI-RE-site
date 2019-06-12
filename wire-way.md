@@ -3,7 +3,7 @@ layout: page
 title: WI+RE's Manifesto
 description: The WI+RE Way
 permalink: /wire-way/
-background: '/assets/images/backgrounds/jans-steps-background.jpg'
+background: '/assets/images/backgrounds/2015-11-12_CAMPUS_AERIAL_youtube_header_image_EDIT_IMG_6870-2.jpg'
 ---
 ## The WI+RE Way
 
