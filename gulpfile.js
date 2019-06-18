@@ -1,3 +1,7 @@
+/*
+This is the gulp file for the project. When gulp 
+*/
+
 var gulp = require('gulp');
 
 gulp.task('copy', function() {
@@ -40,4 +44,4 @@ gulp.task('copy', function() {
 })
 
 // Default task
-gulp.task('default', ['copy']);
+gulp.task('default', ['copy']); //runs the copy function above when gulp is running in the command line

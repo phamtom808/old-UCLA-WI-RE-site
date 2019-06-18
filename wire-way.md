@@ -1,3 +1,7 @@
+<!-- 
+This is the markdown file for the WI+RE Manifesto page. This is an outline for the Manifesto page.
+--> 
+
 ---
 layout: page
 title: WI+RE's Manifesto
