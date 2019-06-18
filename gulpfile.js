@@ -1,5 +1,5 @@
 /*
-This is the gulp file for the project. When gulp 
+This is the gulp file for the project. When gulp is running, the file calls and executes the copy function.
 */
 
 var gulp = require('gulp');
